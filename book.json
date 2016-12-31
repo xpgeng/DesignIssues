@@ -1,0 +1,14 @@
+{"title": "Disign Issues",
+    "author": "Tim-Berners Lee",
+
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+        "shortName": "xpgeng"
+    }
+  }
+}
+
+
